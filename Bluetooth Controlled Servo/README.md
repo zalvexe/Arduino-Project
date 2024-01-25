@@ -11,6 +11,8 @@ The application prototype was made using MIT app inventor in 2020 and i haven't 
 - Micro Servo sg90
 
 ## Application
+To use the app, you must connect your phone's Bluetooth to your HC-05 Bluetooth module, and voila you can play with the slider :)
+
 ![Screenshot_2024-01-25-13-14-42-305_appinventor ai_nafilazalfa2005 Servo_Controller (1)](https://github.com/zalvexe/Arduino-Project/assets/92864261/625b7f5b-4a6b-487f-8ec7-3f3352f402ad)
 
 You can adjust the slider, and the servo will rotate accordingly, as illustrated in the example picture with the value 79.
