@@ -1,7 +1,7 @@
 # Blue Object Following Robot
 
 ## Description : 
-Simple object recognition with Arduino Uno and OpenCV in C++. This project intentionally made for my robotic final project.   
+Simple object recognition with Arduino Uno and OpenCV in C++. Designed for my robotic final project, This robot will follow a blue object that appears in front of the camera and will rotate according to object's position.  
 It uses 2 Arduino unos for wireless connection. For webcam, i use my phone connected with the OpenCV through Iriun virtual webcam.  
 Honestly it was pretty complicated project to made cause we need to use c++ instead of python.. ;_;
 
